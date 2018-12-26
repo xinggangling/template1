@@ -1,5 +1,5 @@
-## test template
+# test template
 
-#  use
+##  use
 
-   $will be a template of React, Can be download for quick-coding
+  will be a template of React, Can be download for quick-coding
