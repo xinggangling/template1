@@ -13,17 +13,11 @@ module.exports = {
       "required": true,
       "message": "Project name"
     },
-    "appid": {
-      "type": "string",
-      "required": true,
-      "message": "AppId",
-      "default": "touristappid"
-    },
     "description": {
       "type": "string",
       "required": false,
       "message": "Project description",
-      "default": "A WePY project"
+      "default": "A quick-coding project"
     },
     "author": {
       "type": "string",
